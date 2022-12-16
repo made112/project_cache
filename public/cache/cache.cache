@@ -1,0 +1,1 @@
+a:2:{s:6:"config";a:6:{s:8:"capacity";s:4:"1.00";s:6:"policy";s:6:"random";s:4:"size";d:0;s:16:"numberOfRequests";i:86;s:8:"cachehit";i:42;s:9:"cachemiss";i:44;}s:4:"data";a:0:{}}

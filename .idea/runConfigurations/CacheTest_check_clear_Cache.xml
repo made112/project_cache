@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CacheTest.check_clear_Cache" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" singleton="false">
+    <TestRunner class="CacheTest" file="$PROJECT_DIR$/Tests/unit/CacheTest.php" method="check_clear_Cache" scope="Class" />
+    <method v="2" />
+  </configuration>
+</component>
